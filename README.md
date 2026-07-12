@@ -13,9 +13,9 @@ Analyzed Using MySQL, and Visualized Through an Interactive Power BI Dashboard t
 - Power BI
 
 ## Workflow :
-- Cleaned and prepared the dataset in Excel.
-- Performed sales analysis using SQL queries.
-- Built an Interactive Dashboard in Power BI.
+ - Cleaned and Prepared the Dataset Using Microsoft Excel.
+ - Performed Sales Analysis using SQL Queries in MySQL.
+ - Built an Interactive Dashboard in Power BI.
 
 ## Key Analysis :
 - Sales Performance
