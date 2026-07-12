@@ -16,6 +16,7 @@ Analyzed Using MySQL, and Visualized Through an Interactive Power BI Dashboard t
  - Cleaned and Prepared the Dataset Using Microsoft Excel.
  - Performed Sales Analysis using SQL Queries in MySQL.
  - Built an Interactive Dashboard in Power BI.
+ - Generated Business insights to support data-driven decision-making.
 
 ## Key Analysis :
 - Sales Performance
